@@ -8,6 +8,6 @@ Here is a rundown of what is in the seedot finder folder (the code that ran the 
 
 'EyesandBrain2.m' is the main file that was used to search for seedots (or ralts or whichever pokemon I wanted to find). 'GraniteCave.m' is almost a copy of 'EyesandBrain2.m' but utilizes some functions for battling/fleeing from wild pokemon for use in Granite Cave. 'Daycare.m' is a simple file that moves the player left and right to earn in-game experience at the Daycare. 
 
-The rest of the files are either functions that the main files use or are png's that the functions/main files use.
+The rest of the files are either functions that the main files use or are png's that the functions/main files reference.
 
 

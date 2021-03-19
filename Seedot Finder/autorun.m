@@ -1,13 +1,13 @@
 function [] = autorun(sr, sd, sa)
-%   Auto run from battle scenes. Pause for 5 sec, press a, right, down, a,
-%   a
+% Automatically runs from battle scenes. Pause for 5 sec, press a, right,
+% down, a, a
 
 %D7 is down, D2 right, D8 is left, D12 is a/b
 %pause is 5 for beginning
 
 pause(1);
 
-%pressing the 'a' button. .67 is a, .23 is b
+%pressing the 'a' button. .67 is a, .35 is b
 writePosition(sa, .5);
 pause(.2);
 writePosition(sa, .67);
